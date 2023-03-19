@@ -4,7 +4,7 @@
 </div>
 
 ---
-#### :man_technologist: About me : I'm a frontend developer from Colorado.
+#### :man_technologist: About me : I'm a team oriented frontend software engineer, seeking to use proven skills in Javascript, HTML, and CSS. Passionate about complex projects, desire to learn, and working on teams that strive to understand the needs of the end-user.
 ---
 
 <!--
@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Profile Views](https://komarev.com/ghpvc/?username=RandyGitProjects&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=RandyGitProjects&theme=tokyonight&style=for-the-badge)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RandyGitProjects&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RandyGitProjects&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RandyGitProjects&theme=tokyonight&hide_border=true)](https://github.com/RandyGitProjects/github-readme-stats)
+
