@@ -1,8 +1,12 @@
+<h1 align='center'>Hello, I'm Randy L Cisneros Jr, and welcome to my GitHub!<img width="30em" height="30em" src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4759qv3wm96bf673k00mcbf1gmcog77vram7iajrsw&rid=giphy.gif&ct=s"/>
+  <p>
+   <a href="https://www.linkedin.com/in/randy-cisneros-17006a191/"> <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height=35px href="Rlcisneros90@gmail.com"> <img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height=35px></a>
+  </p>
+</h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-<h1 align='center'>Hello, and welcome to my GitHub!<img width="30em" height="30em" src="https://media3.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif?cid=ecf05e4759qv3wm96bf673k00mcbf1gmcog77vram7iajrsw&rid=giphy.gif&ct=s"/>
-</h1>
 
 ---
 <div align="center">
@@ -20,7 +24,8 @@
 
 ---
 
-#### :man_technologist: About me : I'm a team oriented frontend software engineer, seeking to use proven skills in Javascript, HTML, and CSS. Passionate about complex projects, desire to learn, and working on teams that strive to understand the needs of the end-user.
+#### :man_technologist: About me : I'm a team oriented frontend software engineer who is passionate about complex projects, desire to learn, and working on teams that strive to understand the needs of the end-user.
+
 
 ---
 
